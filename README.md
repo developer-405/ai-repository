@@ -35,7 +35,7 @@ Problems can be the artifacts introduced in the resulting audio stems
 ## What next?
 
 Several open source tools only allow to split drums, vocals and piano, but no other instruments
-
+This is the goal ![image of interface](/screen.png)
 
 ## Acknowledgments
 
